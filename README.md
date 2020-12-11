@@ -5,10 +5,10 @@ Sudoku is a popular game originated from the work of the 17th century Swiss math
 ## Getting Started
 The GUI will be displayed in your browswer in this address: http://127.0.0.1:8050/
 
-![](image/Screenshot1.png)
+![](Screenshots/Screenshot1.png)
 
 ## Enter sudoku puzzle
-![](image/Screenshot2.png)
+![](Screenshots/Screenshot2.png)
 
 ## Click "SOLVE"
-![](image/Screenshot3.png)
+![](Screenshots/Screenshot3.png)
